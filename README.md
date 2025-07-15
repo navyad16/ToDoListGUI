@@ -1,0 +1,4 @@
+- To-Do List App (Python + PyQt5 + PostgreSQL)
+- Designed a desktop productivity app to manage to-do tasks with a user-friendly GUI using PyQt5 and PostgreSQL. 
+- Features include adding new tasks, marking as complete with checkboxes, and deleting them in a tabular interface. 
+- Built with modular backend logic and dynamic UI loading from Qt Designer.
